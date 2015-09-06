@@ -18,3 +18,4 @@ onestring = encode(input);
 print "after encode: ", onestring
 output = decode(onestring);
 print "output: ", output
+print "another change"
